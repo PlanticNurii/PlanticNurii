@@ -66,7 +66,8 @@
   </summary>
 </p>
 <div align= "center">
- <p align="center">$${\color{#d9cb7c}\textbf{Please warn me RESPECTFULLY if anything, I am oblivious and can be careless.S ensitive people please IWC, I may say something insensitive.}}$$
+ <p align="center">$${\color{#d9cb7c}\textbf{Please warn me RESPECTFULLY if anything, I am oblivious and can be careless.}}$$
+  <p align="center">$${\color{#d9cb7c}\textbf{Please know I am impulsive, I say or do things without a thought}}$$
  <p align="center">$${\color{#d9cb7c}\textbf{I will immediately hide or block you if you made me uncomfortable, please know I don't mean any ill intention towards anyone.}}$$
 </details>
   <p align="center">
