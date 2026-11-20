@@ -5,10 +5,10 @@
 
   <details>
   <summary>
-    $${\Large\color{#c43b74}\textbf{About me}}$$    
+    $${\Large\color{#c43b74}\textbf{About me (..◜ᴗ◝..) }}$$    
   </summary>
 </p>
 <div align= "center">
-    <p align="center">$${\color{#c43b74}\textbf{me is nurii}}$$
-  
-
+    <p align="center">$${\color{#fcc856}\textbf{You may call me Nurii / Lemon / Riri (✿◠‿◠)}}$$
+    <p align="center">$${\color{#ff9ea8}\textbf{Interact or cuddle, I don't mind unless I have DNI.}}$$
+    <p align="center">$${\color{#fcc856}\textbf{I'm 17 years old —— 14 years old and below DNI or IWEC}}$$
