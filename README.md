@@ -14,36 +14,42 @@
  <p align="center">
   <img src="https://github.com/PlanticNurii/PlanticNurii/blob/8c7de273feec252391f543b6d641e74bbc11bdf4/Untitled50_20261120151038.webp" width="900" alt="Description">
 </p>
-<p align="center">$${\color{#ffe6b5}\textbf{Hello! I am PlanticNurii, previously know as Nerosuince. Please address me as Nurii / Lemon / Riri ヾ(≧▽≦*)o}}$$
-<p align="center">$${\color{#ffe6b5}\textbf{I'm a Sx529. -  I'm mostly fixating on Forsaken and MCYT (specifically UUSMP)}}$$
+<p align="center">$${\color{#f7e58b}\textbf{Hello! I am PlanticNurii, previously know as Nerosuince. Please address me as Nurii / Lemon / Riri ヾ(≧▽≦*)o}}$$
+<p align="center">$${\color{#f7e58b}\textbf{I'm a Sx529. -  I'm mostly fixating on Forsaken and MCYT (specifically UUSMP)}}$$
 <!--INFO-->
 <div align="center">
 
   <details>
   <summary>
-    $${\Large\color{#f24582}\textbf{Description (..◜ᴗ◝..) }}$$    
+    $${\Large\color{#ed458b}\textbf{Description (..◜ᴗ◝..) }}$$    
   </summary>
 </p>
 <div align= "center">
-    <p align="center">$${\color{#f7e58b}\textbf{I mainly stick around the bakery or with my friends!}}$$
-    <p align="center">$${\color{#ed458b}\textbf{Interact or cuddle, I don't mind unless I have DNI}}$$
-    <p align="center">$${\color{#f7e58b}\textbf{I'm 17 years old — 14 years old and below DNI or IWEC}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{I mainly stick around the bakery or with my friends!}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{Interact or cuddle, I don't mind unless I have DNI}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{I'm 17 years old — 14 years old and below DNI or IWEC}}$$
 </details>
 
-<p align="center">$${\color{#ffe6b5}\textbf{Hello Chudlings! (✿◠‿◠)}}$$
-  <p align="center">$${\color{#ffe6b5}\textbf{Im so cute right?}}$$
+<p align="center">$${\color{#f7e58b}\textbf{Hello Chudlings! (✿◠‿◠)}}$$
+  <p align="center">$${\color{#f7e58b}\textbf{Im so cute right?}}$$
  <details>
   <summary>
-    $${\Large\color{#eef593}\textbf{Regulars > Friends! }}$$    
+    $${\Large\color{#ed458b}\textbf{Regulars > Friends! }}$$    
   </summary>
 </p>
 <div align= "center">
-    <p align="center">$${\color{#ed458b}\textbf{@witheringpetals, @MMmozzarellaA, @WalkingCorps }}$$
-    <p align="center">$${\color{#f7e58b}\textbf{@twottimey,@PlantedLegacy, @Missessishere}}$$
-    <p align="center">$${\color{#ed458b}\textbf{@chanceforgotdebtt, @Elliotwitness, and a few who doesn't have Github!}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{@witheringpetals, @MMmozzarellaA, @WalkingCorps }}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{@twottimey,@PlantedLegacy, @Missessishere}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{@chanceforgotdebtt, @Elliotwitness, and a few who doesn't have Github!}}$$
 </details>
+ <p align="center">
+  <img src="https://github.com/PlanticNurii/PlanticNurii/blob/07e0eb55fc2246a34f53e32cd08b1ca48697b77f/Untitled51_20261120165608.webp" width="500" alt="Description">
 
+   $${\Large\color{#ed458b}\textbf{Fictkins}}$$    
 
+<div align= "center">
+    <p align="center">$${\color{#f7e58b}\textbf{Elliot (WAAPP), Andrew (BD), Two Time (Forsaken), C!Eggchan(USMP)}}$$
+   
 
 
 
