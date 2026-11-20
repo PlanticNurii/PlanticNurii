@@ -7,8 +7,8 @@
 </p>
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?size=24&duration=1400&pause=1700&color=f7e58b&width=700&center=true&lines=Ma+Cherie%3BAre+you+missing+me%3F"
-    alt="Ma Cherie — Are you missing me?"
+    src="https://readme-typing-svg.demolab.com/?size=24&duration=1400&pause=1700&color=f7e58b&width=700&center=true&lines=𝙈𝙖+𝘾𝙝𝙚𝙧𝙞𝙚%3B𝘼𝙧𝙚+𝙮𝙤𝙪+𝙢𝙞𝙨𝙨𝙞𝙣𝙜+𝙢𝙚%3F"
+    alt="𝙈𝙖 𝘾𝙝𝙚𝙧𝙞𝙚 — 𝘼𝙧𝙚 𝙮𝙤𝙪 𝙢𝙞𝙨𝙨𝙞𝙣𝙜 𝙢𝙚??"
   >
 </p>
 </p>
