@@ -37,9 +37,9 @@
   </summary>
 </p>
 <div align= "center">
-    <p align="center">$${\color{#f7e58b}\textbf{@witheringpetals, @MMmozzarellaA, @WalkingCorps }}$$
-    <p align="center">$${\color{#ed458b}\textbf{@twottimey,@PlantedLegacy, @Missessishere}}$$
-    <p align="center">$${\color{#f7e58b}\textbf{@chanceforgotdebtt, @Elliotwitness, and a few who doesn't have Github!}}$$
+    <p align="center">$${\color{#ed458b}\textbf{@witheringpetals, @MMmozzarellaA, @WalkingCorps }}$$
+    <p align="center">$${\color{#f7e58b}\textbf{@twottimey,@PlantedLegacy, @Missessishere}}$$
+    <p align="center">$${\color{#ed458b}\textbf{@chanceforgotdebtt, @Elliotwitness, and a few who doesn't have Github!}}$$
 </details>
 
 
