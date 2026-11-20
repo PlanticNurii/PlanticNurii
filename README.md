@@ -12,7 +12,7 @@
 
 </p>
  <p align="center">
-  <img src="https://github.com/PlanticNurii/PlanticNurii/blob/8c7de273feec252391f543b6d641e74bbc11bdf4/Untitled50_20261120151038.webp" width="900" alt="Description">
+  <img src="https://github.com/PlanticNurii/PlanticNurii/blob/8c7de273feec252391f543b6d641e74bbc11bdf4/Untitled50_20261120151038.webp" width="800" alt="Description">
 </p>
 <p align="center">$${\color{#f7e58b}\textbf{Hello! I am PlanticNurii, previously know as Nerosuince. Please address me as Nurii / Lemon / Riri ヾ(≧▽≦*)o}}$$
 <p align="center">$${\color{#f7e58b}\textbf{I'm a Sx529. -  I'm mostly fixating on Forsaken and MCYT (specifically UUSMP)}}$$
@@ -31,7 +31,6 @@
 </details>
 
 <p align="center">$${\color{#f7e58b}\textbf{Hello Chudlings! (✿◠‿◠)}}$$
-  <p align="center">$${\color{#f7e58b}\textbf{Im so cute right?}}$$
  <details>
   <summary>
     $${\Large\color{#ed458b}\textbf{Regulars > Friends! }}$$    
@@ -43,12 +42,22 @@
     <p align="center">$${\color{#ffe6b5}\textbf{@chanceforgotdebtt, @Elliotwitness, and a few who doesn't have Github!}}$$
 </details>
  <p align="center">
-  <img src="https://github.com/PlanticNurii/PlanticNurii/blob/07e0eb55fc2246a34f53e32cd08b1ca48697b77f/Untitled51_20261120165608.webp" width="500" alt="Description">
+  <img src="https://github.com/PlanticNurii/PlanticNurii/blob/07e0eb55fc2246a34f53e32cd08b1ca48697b77f/Untitled51_20261120165608.webp" width="700" alt="Description">
 
    $${\Large\color{#ed458b}\textbf{Fictkins}}$$    
 
 <div align= "center">
     <p align="center">$${\color{#f7e58b}\textbf{Elliot (WAAPP), Andrew (BD), Two Time (Forsaken), C!Eggchan(USMP)}}$$
+
+<details>
+  <summary>
+    $${\Large\color{#ed458b}\textbf{TITLES}}$$    
+  </summary>
+</p>
+<div align= "center">
+    <p align="center">$${\color{#ffe6b5}\textbf{ANDREW OF PT!}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{@casinotown, @Ponytowns-rewards, @daggerstruckmage, @THE-TEMPIST, @Knox-Event}}$$
+  
    
 
 
