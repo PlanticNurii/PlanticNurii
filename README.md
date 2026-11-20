@@ -5,7 +5,12 @@
     alt="Visitors"
   >
 </p>
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?size=24&duration=1400&pause=1700&color=ffca38&width=700&lines=Welcome+to+Builder%27s+Pizzaria%21+How+may+I+help+you%3F"
+    alt="Welcome to Builder's Pizzaria! How may I help you?"
+  >
+</p>
  <p align="center">
   <img src="https://github.com/PlanticNurii/PlanticNurii/blob/8c7de273feec252391f543b6d641e74bbc11bdf4/Untitled50_20261120151038.webp" width="900" alt="Description">
 </p>
