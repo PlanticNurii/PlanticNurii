@@ -1,4 +1,5 @@
-
+ <p align="center">
+  <img src="https://64.media.tumblr.com/c3705934727f1c36af1ae3bea1877416/327384b74e3139b5-9a/s500x750/50c129b06365df1c85ca4e98826574e4e2fda9b5.gifv" width="600" alt="Description">
 <p align="center">
   <img
     src="https://laobi.icu/badge?page_id=https%3A%2F%2Fgithub.com%2FPlanticNurii&left_text=Customers%E3%83%BE(%E2%89%A7%E2%96%BD%E2%89%A6*)o&left_color=%23f24582&right_color=%23ecab6f&format=true"
@@ -9,9 +10,7 @@
     src="https://readme-typing-svg.demolab.com/?font=Italianno&size=42&duration=1400&pause=1700&color=ff809d&width=900&center=true&lines=Ma+Cherie%3BAre+you+missing+me%3F"
     alt="Ma Cherie — Are you missing me?"
   >
-</p>
- <p align="center">
-  <img src="https://64.media.tumblr.com/c3705934727f1c36af1ae3bea1877416/327384b74e3139b5-9a/s500x750/50c129b06365df1c85ca4e98826574e4e2fda9b5.gifv" width="600" alt="Description">
+
  <p align="center">
   <img src="https://github.com/PlanticNurii/PlanticNurii/blob/8c7de273feec252391f543b6d641e74bbc11bdf4/Untitled50_20261120151038.webp" width="800" alt="Description">
 </p>
