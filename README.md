@@ -84,7 +84,9 @@
     src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=16&duration=1400&pause=1700&color=ff809d&width=1000&center=true&lines=I+like+the+isolation+of+a+house.%3BAnything+more+crowded%2C+it+feels+like+suffocating."
     alt="I like the isolation of a house. — Anything more crowded, it feels like suffocating."
   >
-
+ <p align="center">
+  <img src="https://64.media.tumblr.com/c252f14ab5b77af0f0bb2c2994f98638/8a2d6cae268f7f26-f0/s640x960/bf0613635f68519b1e865a10c518c6ab36515a3c.pnj" width="800" alt="Description">
+   
    $${\Large\color{#ed458b}\textbf{Fictkins}}$$    
 
 <div align= "center">
@@ -101,7 +103,8 @@
     <p align="center">$${\color{#ffe6b5}\textbf{@casinotown, @Ponytowns-rewards, @daggerstruckmage, @THE-TEMPIST, @Knox-Event}}$$
   </details>
    
-
+ <p align="center">
+  <img src="https://64.media.tumblr.com/c252f14ab5b77af0f0bb2c2994f98638/8a2d6cae268f7f26-f0/s640x960/bf0613635f68519b1e865a10c518c6ab36515a3c.pnj" width="800" alt="Description">
 
 
 
