@@ -22,7 +22,7 @@
 <p align="center">$${\color{#d9cb7c}\textbf{I'm a Sx529. -  I'm mostly fixating on Forsaken and MCYT (specifically UUSMP)}}$$
  
  <p align="center">
-  <img src="https://64.media.tumblr.com/0dc229b7e776846723c9f4954488bdae/1061ec6fbe4348ea-9e/s2048x3072/ec54b90676d4afa8ebfbd5fafd428b94045fd176.pnj" width="900" alt="Description">
+  <img src="https://64.media.tumblr.com/0dc229b7e776846723c9f4954488bdae/1061ec6fbe4348ea-9e/s2048x3072/ec54b90676d4afa8ebfbd5fafd428b94045fd176.pnj" width="700" alt="Description">
   <!--INFO-->
 <div align="center">
 
@@ -71,7 +71,7 @@
  <p align="center">$${\color{#d9cb7c}\textbf{I will immediately hide or block you if you made me uncomfortable, please know I don't mean any ill intention towards anyone.}}$$
 </details>
   <p align="center">
-  <img src="https://64.media.tumblr.com/60edea97385a19afd257b668d315d67a/1061ec6fbe4348ea-f9/s2048x3072/7d0c0d7f493eefb00f46ec0759f8b877ee7d2d8b.pnj" width="900" alt="Description"> 
+  <img src="https://64.media.tumblr.com/60edea97385a19afd257b668d315d67a/1061ec6fbe4348ea-f9/s2048x3072/7d0c0d7f493eefb00f46ec0759f8b877ee7d2d8b.pnj" width="700" alt="Description"> 
 
  <p align="center">
   <img src="https://64.media.tumblr.com/c3705934727f1c36af1ae3bea1877416/327384b74e3139b5-9a/s500x750/50c129b06365df1c85ca4e98826574e4e2fda9b5.gifv" width="600" alt="Description">
