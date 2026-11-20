@@ -19,7 +19,7 @@
 
   <details>
   <summary>
-    $${\Large\color{#f24582}\textbf{About me (..◜ᴗ◝..) }}$$    
+    $${\Large\color{#f24582}\textbf{Description (..◜ᴗ◝..) }}$$    
   </summary>
 </p>
 <div align= "center">
