@@ -31,6 +31,7 @@
 </details>
 
 <p align="center">$${\color{#ffe6b5}\textbf{Hello Chudlings! (✿◠‿◠)}}$$
+  <p align="center">$${\color{#ffe6b5}\textbf{Im so cute right?}}$$
  <details>
   <summary>
     $${\Large\color{#eef593}\textbf{Regulars > Friends! }}$$    
