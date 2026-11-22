@@ -34,6 +34,7 @@
     <p align="center">$${\color{#ffe6b5}\textbf{I mainly stick around the bakery or with my friends!}}$$
     <p align="center">$${\color{#ffe6b5}\textbf{INT or cuddle, I don't mind unless I have DNI}}$$
     <p align="center">$${\color{#ffe6b5}\textbf{Usually AFK, slow resps (w2i to ensure a response)}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{Be straightforward or use tone tags please!}}$$
     <p align="center">$${\color{#ffe6b5}\textbf{I'm an artist so feel free to ask for requests! (please know this is a request, not a free commission)}}$$
 </details>
 
