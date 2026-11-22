@@ -19,6 +19,18 @@
 
 <p align="center">$${\color{#d9cb7c}\textbf{Hello! I am PlanticNurii, previously know as Nerosuince. Please address me as Nurii / Lemon / Riri ヾ(≧▽≦*)o}}$$
 <p align="center">$${\color{#d9cb7c}\textbf{I'm a Sx529. -  I'm mostly fixating on Forsaken and MCYT (specifically UUSMP)}}$$
+<details>
+  <summary align="center">
+    $${\Large\color{#ed458b}\textbf{Note. }}$$
+  </summary>
+
+  <div align="center">
+    $${\color{#d9cb7c}\textbf{Please warn me RESPECTFULLY if anything, I am oblivious and can be careless.}}$$
+ 
+   $${\color{#d9cb7c}\textbf{Please know I am impulsive, I say or do things without a thought.}}$$
+   $${\color{#d9cb7c}\textbf{I will immediately hide or block you if you made me uncomfortable; please know I don't mean any ill intention towards anyone.}}$$
+  </div>
+</details>
  
  <p align="center">
   <img src="https://64.media.tumblr.com/0dc229b7e776846723c9f4954488bdae/1061ec6fbe4348ea-9e/s2048x3072/ec54b90676d4afa8ebfbd5fafd428b94045fd176.pnj" width="700" alt="Description">
@@ -73,16 +85,6 @@
     <p align="center">$${\color{#ffe6b5}\textbf{This account is solely made for Pony Town or entertainment use.}}$$
 </details>
 
- <details>
-  <summary>
-    $${\Large\color{#ed458b}\textbf{Note. }}$$    
-  </summary>
-</p>
-<div align= "center">
- <p align="center">$${\color{#d9cb7c}\textbf{Please warn me RESPECTFULLY if anything, I am oblivious and can be careless.}}$$
-  <p align="center">$${\color{#d9cb7c}\textbf{Please know I am impulsive, I say or do things without a thought}}$$
- <p align="center">$${\color{#d9cb7c}\textbf{I will immediately hide or block you if you made me uncomfortable, please know I don't mean any ill intention towards anyone.}}$$
-</details>
   <p align="center">
   <img src="https://64.media.tumblr.com/60edea97385a19afd257b668d315d67a/1061ec6fbe4348ea-f9/s2048x3072/7d0c0d7f493eefb00f46ec0759f8b877ee7d2d8b.pnj" width="700" alt="Description"> 
 
