@@ -38,9 +38,21 @@
     <p align="center">$${\color{#ffe6b5}\textbf{I'm an artist so feel free to ask for requests! (please know this is a request, not a free commission)}}$$
 </details>
 
+  <details>
+  <summary>
+    $${\Large\color{#ed458b}\textbf{Ingredients (❁´◡`❁) [Ships] }}$$    
+  </summary>
+</p>
+<div align= "center">
+    <p align="center">$${\color{#ffe6b5}\textbf{I like: }}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{Chickenburger(!), Pizzatime, Paycheck(!), Pre-forsaken Azuretime }}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{Pizzaburger, Tsukihina, Vuzi, Sparklingherb }}$$
+</details>
+
+
  <details>
   <summary>
-    $${\Large\color{#ed458b}\textbf{Regulars [Friends!] }}$$    
+    $${\Large\color{#ed458b}\textbf{Regulars (´▽`ʃ♡ƪ) [Friends!] }}$$    
   </summary>
 </p>
 <div align= "center">
