@@ -70,7 +70,8 @@
 <div align= "center">
     <p align="center">$${\color{#ffe6b5}\textbf{@witheringpetals, @MMmozzarellaA, @WalkingCorps }}$$
     <p align="center">$${\color{#ffe6b5}\textbf{@twottimey, @PlantedLegacy, @Missessishere}}$$
-    <p align="center">$${\color{#ffe6b5}\textbf{@chanceforgotdebtt, @Elliotwitness, and a few more who doesn't have Github!}}$$
+    <p align="center">$${\color{#ffe6b5}\textbf{@chanceforgotdebtt, @Elliotwitness, @iloveoishisomuch }}$$
+     <p align="center">$${\color{#ffe6b5}\textbf{and a few more who doesn't have Github!}}$$
 </details>
   
  <details>
